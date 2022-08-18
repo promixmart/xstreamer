@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "350813235755",
+    "project_id": "draripfe",
+    "storage_bucket": "draripfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350813235755:android:2acd7b5b1c37549240d86e",
+        "android_client_info": {
+          "package_name": "com.ghoudan.live365"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350813235755-puvninu4m9ng3tgm6mciri7pcdou9g48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHEIBAr456HKGKaKkjiS5V6UdPZyt2xcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350813235755-puvninu4m9ng3tgm6mciri7pcdou9g48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "350813235755-hh6arjkmj5s1q5vea806jtl5tg85aeml.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ghoudan.live365"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350813235755:android:ed0d873f4f77547140d86e",
+        "android_client_info": {
+          "package_name": "com.ghoudan.lmaida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350813235755-puvninu4m9ng3tgm6mciri7pcdou9g48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHEIBAr456HKGKaKkjiS5V6UdPZyt2xcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350813235755-puvninu4m9ng3tgm6mciri7pcdou9g48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "350813235755-hh6arjkmj5s1q5vea806jtl5tg85aeml.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ghoudan.live365"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
