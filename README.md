@@ -1,6 +1,7 @@
-# 🔥🔥 Live365 Streaming App.
+#  An Up to date version of this amazing flutter Streaming App found on github.
 
-An Amazing Live365 Streaming App That Does It All with multiple features built with flutter and dart.
+
+An Amazing Streaming App That Does It All with multiple features built with flutter and dart.
 
 Star⭐ the repo if you like what you see😉.
 
@@ -94,6 +95,6 @@ Double check install instructions for both
      - https://pub.dartlang.org/packages/firebase_auth
    - Firestore Plugin
      -  https://pub.dartlang.org/packages/cloud_firestore
-
-## 🤓 Author(s)
+     
+   🤓 credit(s)
 **Ayoub Ghoudan
