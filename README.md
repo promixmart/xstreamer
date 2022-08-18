@@ -1,5 +1,6 @@
 #  An Up to date version of this amazing flutter Streaming App found on github.
 
+youre welcome to contribute
 
 An Amazing Streaming App That Does It All with multiple features built with flutter and dart.
 
