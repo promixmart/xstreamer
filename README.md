@@ -1,4 +1,4 @@
-#  An Up to date version of this amazing flutter Streaming App found on github.
+#  An Up to date version of this amazing flutter Streaming App on github.
 
 youre welcome to contribute
 
